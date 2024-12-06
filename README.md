@@ -76,7 +76,7 @@ I am passionate about leveraging cutting-edge technologies like **Cloud Computin
   <a href="https://kapilkumaria.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"/>
   </a>
-  <a href="https://dev.to/drintech" target="_blank">
+  <a href="https://dev.to/kkintech15" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Blog"/>
   </a>
 </p>
