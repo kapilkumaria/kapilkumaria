@@ -98,7 +98,6 @@ I am passionate about leveraging cutting-edge technologies like **Cloud Computin
 
 ---
 
-
 <p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapilkumaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="drintech22" /></p>
 
 <p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kapilkumaria&show_icons=true&theme=radical&locale=en" alt="drintech22" /></p>
