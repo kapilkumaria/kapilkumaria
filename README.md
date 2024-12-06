@@ -73,7 +73,7 @@ I am passionate about leveraging cutting-edge technologies like **Cloud Computin
   <a href="https://medium.com/@kapil.kumaria" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
   </a>
-  <a href="https://kapilkumaria.hashnode.dev/" target="_blank">
+  <a href="https://kKInTech15.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"/>
   </a>
   <a href="https://dev.to/kkintech15" target="_blank">
