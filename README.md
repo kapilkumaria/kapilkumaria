@@ -75,6 +75,8 @@ I am passionate about leveraging cutting-edge technologies like **Cloud Computin
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/drintech)
 ---
 
+---
+
 <h3 align="left">🔧 Technologies and Tools </h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -89,10 +91,51 @@ I am passionate about leveraging cutting-edge technologies like **Cloud Computin
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
+  </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
   </a> 
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+  </a> 
+  <a href="https://traefik.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" width="40" height="40"/> 
+  </a> 
+  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo-cd" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+  </a>
+  <a href="https://www.packer.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.png" alt="prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/grafana/loki" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="loki" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
 </p>
+
+---
 
 
 ---
