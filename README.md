@@ -68,8 +68,6 @@ I am passionate about leveraging cutting-edge technologies like **Cloud Computin
 
 ---
 
----
-
 <h3 align="left">💬 My Blogs</h3>
 <p align="left">
   <a href="https://medium.com/@samuelokesanya12" target="_blank">
@@ -82,8 +80,6 @@ I am passionate about leveraging cutting-edge technologies like **Cloud Computin
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Blog"/>
   </a>
 </p>
-
----
 
 ---
 
@@ -144,9 +140,6 @@ I am passionate about leveraging cutting-edge technologies like **Cloud Computin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
-
----
-
 
 ---
 
