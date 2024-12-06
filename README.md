@@ -70,7 +70,7 @@ I am passionate about leveraging cutting-edge technologies like **Cloud Computin
 
 <h3 align="left">💬 My Blogs</h3>
 <p align="left">
-  <a href="https://medium.com/@samuelokesanya12" target="_blank">
+  <a href="https://medium.com/@kapil.kumaria" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
   </a>
   <a href="https://hashnode.com/@DrInTech" target="_blank">
