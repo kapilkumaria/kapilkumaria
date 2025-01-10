@@ -1,5 +1,5 @@
 # 👨‍💻 **Kapil Kumaria**  
-### DevOps Engineer | Solutions Architect  
+### DevOps Engineer | DevSecOps Engineer | Site Reliability Engineer (SRE) 
 
 🚀 Helping organizations innovate faster through efficient deployment cycles.  
 🌟 Passionate about building robust, scalable infrastructure and seamless CI/CD pipelines.  
