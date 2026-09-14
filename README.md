@@ -20,7 +20,7 @@ My portfolio consists of **eight hands-on engineering projects** covering the pr
 
 Each repository includes implementation details, architecture decisions, Infrastructure as Code, automation, security considerations, troubleshooting documentation, and supporting engineering evidence.
 
-### 1️⃣ Cloud-Native Application Delivery & Containerization
+### 1. Cloud-Native Application Delivery & Containerization
 
 **Focus:** Application delivery, containers, CI/CD, cloud deployment, and infrastructure automation
 
@@ -39,7 +39,7 @@ The project uses separate repositories for the **application, infrastructure, an
 
 ---
 
-### 2️⃣ Enterprise GitOps & DevSecOps Platform
+### 2. Enterprise GitOps & DevSecOps Platform
 
 **Focus:** Automated delivery, GitOps, security controls, and declarative operations
 
@@ -54,7 +54,7 @@ The project demonstrates separation between application delivery and runtime con
 
 ---
 
-### 3️⃣ Enterprise Kubernetes Platform — AWS EKS
+### 3. Enterprise Kubernetes Platform — AWS EKS
 
 **Focus:** Production-oriented Kubernetes platform engineering on AWS
 
@@ -81,7 +81,7 @@ Built an Amazon EKS platform using Infrastructure as Code and GitOps, incorporat
 
 ---
 
-### 4️⃣ Azure Enterprise DevOps Platform — AKS
+### 4. Azure Enterprise DevOps Platform — AKS
 
 **Focus:** Secure multi-environment application delivery on Microsoft Azure
 
@@ -110,7 +110,7 @@ The platform demonstrates controlled promotion across **development, staging, an
 
 ---
 
-### 5️⃣ Enterprise Internal Developer Platform
+### 5. Enterprise Internal Developer Platform
 
 **Focus:** Platform engineering, developer self-service, and golden paths
 
@@ -137,7 +137,7 @@ The platform combines infrastructure automation, GitOps, Kubernetes, service tem
 
 ---
 
-### 6️⃣ Enterprise Observability & SRE Platform
+### 6. Enterprise Observability & SRE Platform
 
 **Focus:** Monitoring, reliability engineering, operational visibility, and incident readiness
 
@@ -166,7 +166,7 @@ The project demonstrates the transition from simply deploying workloads to **ope
 
 ---
 
-### 7️⃣ Enterprise Multi-Cloud FinOps, Governance & Controlled Remediation
+### 7. Enterprise Multi-Cloud FinOps, Governance & Controlled Remediation
 
 **Focus:** Cloud cost governance, policy enforcement, compliance, and controlled remediation across AWS and Azure
 
@@ -195,7 +195,7 @@ The platform intentionally keeps remediation governed and human-controlled rathe
 
 ---
 
-### 8️⃣ Enterprise MLOps Platform — Customer Churn
+### 8. Enterprise MLOps Platform — Customer Churn
 
 **Focus:** Reproducible machine-learning delivery and MLOps platform engineering
 
@@ -334,10 +334,6 @@ I continuously build hands-on platforms to deepen my understanding of cloud arch
 ### [kapilkumaria.com](https://kapilkumaria.com)
 
 My portfolio contains selected cloud and DevOps engineering projects with architecture, implementation details, technology decisions, and links to the corresponding GitHub repositories.
----
-
-## 📊 GitHub Activity
-<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kapilkumaria&show_icons=true&theme=github_dark&hide_border=true" alt="Kapil Kumaria GitHub statistics" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkumaria&layout=compact&theme=github_dark&hide_border=true" alt="Kapil Kumaria top languages" /> </p>
 
 ---
 
@@ -351,7 +347,3 @@ I am interested in opportunities involving **Senior DevOps Engineering, Cloud En
 ---
 
 > **Engineering philosophy:** Automate repeatable work, keep infrastructure declarative, build security into delivery, make systems observable, and design platforms that developers can operate confidently.
-
----
-
-**Engineering philosophy:** Automate repeatable work, keep infrastructure declarative, build security into delivery, make systems observable, and design platforms that developers can operate confidently.
