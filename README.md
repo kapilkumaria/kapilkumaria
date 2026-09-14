@@ -1,164 +1,357 @@
-# 👨‍💻 **Kapil Kumaria**  
-### DevOps Engineer | DevSecOps Engineer | Site Reliability Engineer (SRE) 
+# 👨‍💻 Kapil Kumaria
 
-🚀 Helping organizations innovate faster through efficient deployment cycles.  
-🌟 Passionate about building robust, scalable infrastructure and seamless CI/CD pipelines.  
+### Senior DevOps Engineer | AWS & Azure | Kubernetes | Platform Engineering | SRE
 
----
+📍 Calgary, Alberta, Canada
 
-## ⚡ **A Quick Summary About Me**  
+I design and build **cloud-native infrastructure, Kubernetes platforms, CI/CD systems, GitOps workflows, DevSecOps controls, observability platforms, FinOps governance, and MLOps infrastructure** across AWS and Azure.
 
-- 🌱 I’m currently expanding my skills in **AWS, Kubernetes, and GitOps**  
-- 👯 I’m looking to collaborate on **DevOps and Cloud Engineering**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I am a professional speaker who loves sharing insights and engaging with audiences.**  
+My engineering approach focuses on **automation, repeatability, security, observability, scalability, and operational reliability**, using Infrastructure as Code, CI/CD, and GitOps principles wherever practical.
 
----
-
-## **About Me**  
-With over 5 years of experience in the software development industry, I specialize in **Build**, **Release**, and **Configuration Management**. My expertise lies in bridging the gap between development and operations by implementing streamlined processes, automating workflows, and enhancing system reliability.  
-
-I am passionate about leveraging cutting-edge technologies like **Cloud Computing**, **Infrastructure as Code**, **Containerization**, and **Monitoring Tools** to drive efficiency and scalability in modern software ecosystems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-kapilkumaria.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kapilkumaria.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kapil%20Kumaria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkintech15/)
+[![GitHub](https://img.shields.io/badge/GitHub-kapilkumaria-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilkumaria)
 
 ---
 
-## **Skills and Expertise**  
-### 🔧 **Technical Skills**  
-- **Version Control**: Git  
-- **Build Tools**: Maven  
-- **CI/CD Automation**: Jenkins, GitHub Actions, GitLab CI  
-- **Configuration Management**: Ansible  
-- **Infrastructure as Code**: Terraform, AWS CloudFormation, Packer  
-- **Containerization**: Docker, ContainerD  
-- **Container Orchestration**: Kubernetes  
-- **Monitoring Tools**: Prometheus, Grafana, Loki, Promtail, cAdvisor  
-- **Proxy/Load Balancing**: Traefik, Nginx Proxy Manager  
-- **GitOps**: ArgoCD  
-- **Cloud Platforms**: AWS (Proficient), Azure (Basic)  
-- **Programming/Scripting**: Bash, Python  
-- **Other Tools**: SonarQube  
+## 🚀 Engineering Portfolio
 
-### 📈 **Project Management**  
-- Agile/Scrum methodologies to enhance collaboration and productivity.  
+My portfolio consists of **eight hands-on engineering projects** covering the progression from application delivery and CI/CD to Kubernetes platform engineering, Internal Developer Platforms, SRE/observability, multi-cloud FinOps/governance, and MLOps.
 
----
+Each repository includes implementation details, architecture decisions, Infrastructure as Code, automation, security considerations, troubleshooting documentation, and supporting engineering evidence.
 
-## **Achievements**  
-### 🔹 **Enhanced Efficiency Through Infrastructure Automation**  
-- Spearheaded automated infrastructure provisioning using **Terraform**, reducing provisioning time by 60%.  
-- Facilitated swift environment creation and seamless deployment of scalable AWS solutions.  
+### 1️⃣ Cloud-Native Application Delivery & Containerization
 
-### 🔹 **Optimized Deployment with CI/CD Pipelines**  
-- Designed and implemented a **Jenkins-based CI/CD pipeline**, cutting production time by 30%.  
-- Ensured smooth code integration and deployment across environments, enhancing team productivity and system reliability.  
+**Focus:** Application delivery, containers, CI/CD, cloud deployment, and infrastructure automation
+
+Built a cloud-native application delivery workflow demonstrating how application code moves from source control through build, containerization, automated validation, infrastructure provisioning, and deployment.
+
+The project uses separate repositories for the **application, infrastructure, and Kubernetes configuration**, demonstrating separation of concerns across the application and platform delivery lifecycle.
+
+**Engineering areas:**  
+`Docker` • `CI/CD` • `AWS` • `Terraform` • `Kubernetes` • `Git` • `Automation`
+
+🔗 **Repositories:**
+
+- 🔹 [Application Repository](https://github.com/kapilkumaria/cloud-native-devops-platform-app)
+- 🔹 [Infrastructure Repository](https://github.com/kapilkumaria/cloud-native-devops-platform-infra)
+- 🔹 [Kubernetes Repository](https://github.com/kapilkumaria/cloud-native-devops-platform-kubernetes)
 
 ---
 
-<h3 align="left"> 🤝 Let's Connect </h3>
+### 2️⃣ Enterprise GitOps & DevSecOps Platform
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kkintech15/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@kkintech15/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://x.com/KkInTech15" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+**Focus:** Automated delivery, GitOps, security controls, and declarative operations
 
----
+Designed an enterprise-style delivery platform that integrates CI/CD automation with security scanning and GitOps-based deployment practices.
 
-<h3 align="left">💬 My Blogs</h3>
-<p align="left">
-  <a href="https://medium.com/@kapil.kumaria" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
-  </a>
-  <a href="https://kkintech15.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"/>
-  </a>
-  <a href="https://dev.to/kkintech15" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Blog"/>
-  </a>
-</p>
+The project demonstrates separation between application delivery and runtime configuration while using automated quality and security controls before workloads reach production environments.
+
+**Engineering areas:**  
+`CI/CD` • `GitOps` • `DevSecOps` • `Kubernetes` • `Terraform` • `Security Automation`
+
+🔗 **Repository:** [View Project](https://github.com/kapilkumaria/enterprise-gitops-devsecops-platform)
 
 ---
 
-<h3 align="left">🔧 Technologies and Tools </h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-  </a> 
-  <a href="https://traefik.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" width="40" height="40"/> 
-  </a> 
-  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo-cd" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a>
-  <a href="https://www.packer.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40"/>
-  </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.png" alt="prometheus" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/grafana/loki" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="loki" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-</p>
+### 3️⃣ Enterprise Kubernetes Platform — AWS EKS
+
+**Focus:** Production-oriented Kubernetes platform engineering on AWS
+
+Built an Amazon EKS platform using Infrastructure as Code and GitOps, incorporating workload delivery, policy enforcement, secrets integration, autoscaling, ingress/gateway management, DNS automation, and platform observability.
+
+**Key capabilities:**
+
+- Amazon EKS infrastructure provisioning
+- Terraform-based Infrastructure as Code
+- Argo CD GitOps delivery
+- Helm-based platform components
+- Gateway API and Traefik
+- Kyverno policy enforcement
+- KEDA workload autoscaling
+- Karpenter node provisioning
+- External Secrets integration
+- ExternalDNS automation
+- Kubernetes metrics and observability
+
+**Engineering areas:**  
+`AWS` • `EKS` • `Kubernetes` • `Terraform` • `Argo CD` • `Helm` • `Karpenter` • `KEDA` • `Kyverno`
+
+🔗 **Repository:** [View Project](https://github.com/kapilkumaria/eks-enterprise-kubernetes-platform)
 
 ---
 
-<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapilkumaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="drintech22" /></p>
+### 4️⃣ Azure Enterprise DevOps Platform — AKS
 
-<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kapilkumaria&show_icons=true&theme=radical&locale=en" alt="drintech22" /></p>
+**Focus:** Secure multi-environment application delivery on Microsoft Azure
+
+Designed and implemented an Azure-based DevOps platform using AKS, Azure DevOps, ACR, Key Vault, Terraform, and Kubernetes.
+
+The platform demonstrates controlled promotion across **development, staging, and production**, combined with container security scanning, workload identity, secrets management, infrastructure automation, and deployment approvals.
+
+**Key capabilities:**
+
+- Azure Kubernetes Service (AKS)
+- Azure Container Registry (ACR)
+- Azure Key Vault
+- Azure Workload Identity / OIDC
+- Azure DevOps YAML pipelines
+- Dev → Staging → Production promotion
+- Environment approvals
+- Trivy filesystem and container image scanning
+- Terraform infrastructure provisioning
+- Kubernetes security hardening
+- Private networking and secured Terraform state
+
+**Engineering areas:**  
+`Azure` • `AKS` • `Azure DevOps` • `Terraform` • `ACR` • `Key Vault` • `Kubernetes` • `Trivy`
+
+🔗 **Repository:** [View Project](https://github.com/kapilkumaria/azure-enterprise-devops-platform)
 
 ---
 
-<p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilkumaria&show_icons=true&theme=radical" alt="drintech22" /></p>
- 
+### 5️⃣ Enterprise Internal Developer Platform
+
+**Focus:** Platform engineering, developer self-service, and golden paths
+
+Built an Internal Developer Platform architecture around Kubernetes and Backstage to demonstrate how platform engineering teams can provide standardized, reusable deployment paths to application teams.
+
+The platform combines infrastructure automation, GitOps, Kubernetes, service templates, and developer-facing workflows to reduce cognitive load and encourage standardized delivery practices.
+
+**Key capabilities:**
+
+- Amazon EKS platform
+- Backstage developer portal
+- Golden-path service templates
+- GitOps-based application delivery
+- Terraform infrastructure modules
+- Helm-based workload packaging
+- AWS IAM and workload identity
+- Developer self-service concepts
+- Platform security and operational documentation
+
+**Engineering areas:**  
+`Platform Engineering` • `Backstage` • `AWS` • `EKS` • `Terraform` • `Kubernetes` • `GitOps` • `Helm`
+
+🔗 **Repository:** [View Project](https://github.com/kapilkumaria/enterprise-internal-developer-platform)
+
 ---
 
-<h3 align="left">Support Me</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/KkInTech15"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KkInTech15" />
-  </a>
-</p>
-<br><br>
+### 6️⃣ Enterprise Observability & SRE Platform
+
+**Focus:** Monitoring, reliability engineering, operational visibility, and incident readiness
+
+Built an observability and SRE platform for Kubernetes workloads with infrastructure, application telemetry, dashboards, alerting, logging, security evidence, and operational documentation.
+
+The project demonstrates the transition from simply deploying workloads to **operating and troubleshooting them reliably**.
+
+**Key capabilities:**
+
+- Metrics collection and visualization
+- Prometheus monitoring
+- Grafana dashboards
+- Alerting workflows
+- Centralized logging
+- Kubernetes platform monitoring
+- AWS CloudWatch integration
+- VPC Flow Logs
+- SRE-oriented monitoring and incident-response practices
+- Security and vulnerability-management evidence
+- Runbooks and troubleshooting documentation
+
+**Engineering areas:**  
+`SRE` • `Observability` • `Prometheus` • `Grafana` • `Alertmanager` • `Loki` • `AWS` • `Kubernetes`
+
+🔗 **Repository:** [View Project](https://github.com/kapilkumaria/enterprise-observability-sre-platform)
+
+---
+
+### 7️⃣ Enterprise Multi-Cloud FinOps, Governance & Controlled Remediation
+
+**Focus:** Cloud cost governance, policy enforcement, compliance, and controlled remediation across AWS and Azure
+
+Designed a multi-cloud FinOps and governance platform that evaluates infrastructure before deployment, identifies policy and cost violations, enforces organizational standards, produces governance evidence, and provides controlled remediation workflows.
+
+The platform intentionally keeps remediation governed and human-controlled rather than allowing unrestricted automated infrastructure changes.
+
+**Key capabilities:**
+
+- AWS + Azure governance
+- Terraform-based multi-cloud infrastructure
+- Infracost pre-deployment cost estimation
+- Checkov policy/security validation
+- Mandatory tagging standards
+- Region governance
+- Cost and compliance reporting
+- Policy-as-Code
+- Drift validation
+- Remediation recommendation engine
+- Human-approved controlled remediation
+
+**Engineering areas:**  
+`FinOps` • `AWS` • `Azure` • `Terraform` • `Infracost` • `Checkov` • `Governance` • `Policy as Code`
+
+🔗 **Repository:** [View Project](https://github.com/kapilkumaria/enterprise-multicloud-finops-governance)
+
+---
+
+### 8️⃣ Enterprise MLOps Platform — Customer Churn
+
+**Focus:** Reproducible machine-learning delivery and MLOps platform engineering
+
+Built an MLOps platform around a customer-churn use case to demonstrate how DevOps and platform engineering principles extend into the machine-learning lifecycle.
+
+The project focuses on reproducibility, dataset versioning, experiment/model lifecycle management, containerized services, automated validation, and Kubernetes/cloud-oriented ML deployment patterns.
+
+**Key capabilities:**
+
+- Reproducible Python environment
+- Version-controlled datasets with DVC
+- Deterministic data preparation
+- ML training and evaluation workflow
+- MLflow experiment/model lifecycle
+- Automated testing and validation
+- Containerized ML workloads
+- Kubernetes-oriented ML platform concepts
+- Kubeflow workflow/platform integration
+- KServe model-serving concepts
+- Amazon SageMaker integration concepts
+
+**Engineering areas:**  
+`MLOps` • `Python` • `DVC` • `MLflow` • `Docker` • `Kubernetes` • `Kubeflow` • `KServe` • `SageMaker`
+
+🔗 **Repository:** [View Project](https://github.com/kapilkumaria/enterprise-mlops-platform)
+
+---
+
+## 🏗️ What These Projects Demonstrate
+
+```text
+Application Delivery
+        │
+        ▼
+CI/CD & DevSecOps
+        │
+        ▼
+Infrastructure as Code
+        │
+        ▼
+Kubernetes Platform Engineering
+        │
+        ▼
+GitOps & Automated Operations
+        │
+        ▼
+Internal Developer Platforms
+        │
+        ▼
+Observability & SRE
+        │
+        ▼
+FinOps & Multi-Cloud Governance
+        │
+        ▼
+MLOps Platform Engineering
+```
+Together, these projects demonstrate my approach to designing platforms across the complete engineering lifecycle — **provision, secure, deploy, operate, observe, govern, optimize, and automate**.
+
+
+## 🧰 Technical Stack
+### ☁️ Cloud Platforms
+
+`AWS`: EC2, EKS, VPC, IAM, S3, RDS, Route 53, CloudFront, CloudWatch, ECR
+
+`Azure`: AKS, ACR, Key Vault, Azure DevOps, Azure Monitor, VNets, Managed Identities
+
+`GCP`: GKE
+
+### ☸️ Containers & Kubernetes
+
+`Docker` • `Kubernetes` • `EKS` • `AKS` • `GKE` • `Helm` • `Kustomize` • `Gateway API` • `Traefik`
+
+### 🏗️ Infrastructure as Code & Configuration
+
+`Terraform` • `AWS CloudFormation` • `Ansible` • `Packer`
+
+## 🔄 CI/CD & GitOps
+
+`GitHub Actions` • `Jenkins` • `GitLab CI` • `Azure DevOps` • `Argo CD`
+
+### 🔐 DevSecOps & Cloud Security
+
+`Trivy` • `Checkov` • `SonarQube` • `Kyverno` • `IAM` • `RBAC` • `OIDC` • `Workload Identity` • `External Secrets`
+
+### 📊 Observability & SRE
+
+`Prometheus` • `Grafana` • `Alertmanager` • `Loki` • `CloudWatch` • `Kubernetes Metrics`
+
+### 💰 FinOps & Governance
+
+`Infracost` • `Checkov` • `Policy as Code` • `Cloud Cost Controls` • `Tag Governance` • `Controlled Remediation`
+
+### 🤖 MLOps
+
+`DVC` • `MLflow` • `Kubeflow` • `KServe` • `Amazon SageMaker` • `scikit-learn`
+
+### 💻 Programming, Scripting & Development
+
+`Python` • `Bash` • `Git` • `Linux` • `Node.js` • `FastAPI`
+
+---
+
+## 🎯 Core Engineering Competencies
+
+- **Cloud Architecture** — Designing secure and scalable infrastructure across AWS and Azure
+- **Infrastructure as Code** — Building reproducible infrastructure with Terraform and modular IaC patterns
+- **Kubernetes Platform Engineering** — EKS/AKS, workload delivery, networking, autoscaling, policy and security
+- **CI/CD Engineering** — Automated build, validation, security scanning, deployment and environment promotion
+- **GitOps** — Declarative Kubernetes delivery and reconciliation using Argo CD
+- **DevSecOps** — Integrating security scanning and policy enforcement into delivery workflows
+- **Platform Engineering** — Developer platforms, golden paths and standardized application delivery
+- **SRE & Observability** — Metrics, logging, alerting, dashboards, troubleshooting and operational readiness
+- **FinOps & Governance** — Cost visibility, policy enforcement, compliance and controlled remediation
+- **MLOps** — Applying DevOps principles to reproducible ML training, model lifecycle and serving workflows
+
+---
+
+## 📜 Certifications & Continuous Learning
+☁️ AWS Certified Solutions Architect – Associate
+
+☁️ AWS Certified Developer – Associate
+
+🐧 Linux Professional Institute — Linux Essentials
+
+🤖 Google AI Essentials
+
+🔷 Microsoft Azure administration and cloud engineering — ongoing professional development
+
+I continuously build hands-on platforms to deepen my understanding of cloud architecture, Kubernetes, automation, reliability engineering, security, FinOps, and MLOps.
+
+---
+
+## 🌐 Portfolio
+
+### [kapilkumaria.com](https://kapilkumaria.com)
+
+My portfolio contains selected cloud and DevOps engineering projects with architecture, implementation details, technology decisions, and links to the corresponding GitHub repositories.
+---
+
+## 📊 GitHub Activity
+<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kapilkumaria&show_icons=true&theme=github_dark&hide_border=true" alt="Kapil Kumaria GitHub statistics" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkumaria&layout=compact&theme=github_dark&hide_border=true" alt="Kapil Kumaria top languages" /> </p>
+
+---
+
+## 🤝 Connect With Me
+
+I am interested in opportunities involving **Senior DevOps Engineering, Cloud Engineering, Platform Engineering, Kubernetes, SRE, and cloud-native infrastructure**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkintech15/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kapilkumaria.com)
+
+---
+
+> **Engineering philosophy:** Automate repeatable work, keep infrastructure declarative, build security into delivery, make systems observable, and design platforms that developers can operate confidently.
+
+---
+
+**Engineering philosophy:** Automate repeatable work, keep infrastructure declarative, build security into delivery, make systems observable, and design platforms that developers can operate confidently.
